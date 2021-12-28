@@ -13,11 +13,12 @@ See https://eprint.iacr.org/2019/773 (or https://ia.cr/2019/773).
 
 Note: we added support for secure fixed points (`SecFxp`).
 
-*Limitations in (end-)use: the content of this software package may solely be used for applications that comply with international export control laws.*
+*Limitations in (end-)use: the content of this software package may solely be used for applications that comply with international export control laws.*  
+*This implementation of cryptographic software has not been audited. Use at your own risk.*
 
 ## Documentation
 
-Documentation of the tno.mpc.mpyc.matrix_inverse package can be found [here](https://docs.mpc.tno.nl/mpyc/matrix_inverse/0.3.1).
+Documentation of the tno.mpc.mpyc.matrix_inverse package can be found [here](https://docs.mpc.tno.nl/mpyc/matrix_inverse/0.4.3).
 
 ## Install
 

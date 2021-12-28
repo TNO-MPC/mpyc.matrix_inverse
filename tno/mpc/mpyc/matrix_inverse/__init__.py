@@ -7,4 +7,4 @@ Module that securely calculates the inverse of a secret-shared matrix using the 
 # https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-no-implicit-reexport
 from .matrix_inverse import matrix_inverse as matrix_inverse
 
-__version__ = "0.3.1"
+__version__ = "0.4.3"

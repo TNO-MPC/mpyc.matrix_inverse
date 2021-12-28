@@ -14,7 +14,7 @@ from mpyc.runtime import mpc
 from mpyc.sectypes import SecureFixedPoint, SecureInteger, SecureNumber
 from numpy import array, concatenate, diagflat, reshape, tril_indices, triu_indices
 
-from .asyncoro import mpc_coro_ignore, returnType
+from tno.mpc.mpyc.stubs.asyncoro import mpc_coro_ignore, returnType
 
 SecureFixedPointMatrix = List[List[SecureFixedPoint]]
 FixedPointMatrix = List[List[float]]
